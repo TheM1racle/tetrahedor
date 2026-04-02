@@ -38,6 +38,12 @@ This is a production-ready Android application that demonstrates Vulkan renderin
 - `app/src/main/assets/shaders/` - GLSL shaders
 - `app/src/main/res/layout/activity_main.xml` - UI layout
 
+
+![Image](https://github.com/user-attachments/assets/87e4d1fa-8e16-499d-bd16-260051dfe24b)
+
+<img width="1924" height="803" alt="Image" src="https://github.com/user-attachments/assets/8b040ff4-0ff2-43b5-b23f-b9a7ef3e168e" />
+
+
 ## Authors
 
 Воронцов Илья, Филиппов Кирилл 
